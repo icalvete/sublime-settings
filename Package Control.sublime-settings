@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Package Control",
+		"Puppet",
+		"Puppet Syntax checking",
+		"Ruby on Rails snippets",
+		"sublimelint",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark"
+	]
+}
